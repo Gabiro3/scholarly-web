@@ -47,28 +47,29 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
-    title: "Founder & Leader",
+      "Scholarly has transformed how I collaborate with my peers. It's easy to use and has made group projects much more manageable.",
+    name: "Migisha Benoit",
+    title: "BA/Civil Engineering",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
-    title: "Founder & Leader",
+      "Thanks to Scholarly, I can easily share ideas and resources with my classmates. It's a game-changer for our group work!",
+    name: "Uwihanganye Sostene",
+    title: "BA/Electrical Engineering",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
-    title: "Founder & Leader",
+      "Scholarly has made it so much easier to connect and collaborate with other students, especially when preparing for exams.",
+    name: "Uwineza Aline",
+    title: "BA/General Medicine",
     img: people03,
   },
 ];
+
 
 export const stats = [
   {
@@ -94,23 +95,23 @@ export const footerLinks = [
     links: [
       {
         name: "Content",
-        link: "https://www.hoobank.com/content/",
+        link: "https://scholarly-web.vercel.app/",
       },
       {
         name: "How it Works",
-        link: "https://www.hoobank.com/how-it-works/",
+        link: "https://scholarly-web.vercel.app#features",
       },
       {
         name: "Create",
-        link: "https://www.hoobank.com/create/",
+        link: "https://scholarly-rwanda.vercel.app/",
       },
       {
         name: "Explore",
-        link: "https://www.hoobank.com/explore/",
+        link: "https://scholarly-web.vercel.app#features",
       },
       {
         name: "Terms & Services",
-        link: "https://www.hoobank.com/terms-and-services/",
+        link: "https://scholarly-web.vercel.app/",
       },
     ],
   },
@@ -119,23 +120,23 @@ export const footerLinks = [
     links: [
       {
         name: "Help Center",
-        link: "https://www.hoobank.com/help-center/",
+        link: "https://scholarly-web.vercel.app/",
       },
       {
         name: "Partners",
-        link: "https://www.hoobank.com/partners/",
+        link: "https://scholarly-web.vercel.app/",
       },
       {
         name: "Suggestions",
-        link: "https://www.hoobank.com/suggestions/",
+        link: "https://scholarly-web.vercel.app/",
       },
       {
         name: "Blog",
-        link: "https://www.hoobank.com/blog/",
+        link: "https://scholarly-web.vercel.app/",
       },
       {
         name: "Newsletters",
-        link: "https://www.hoobank.com/newsletters/",
+        link: "https://scholarly-web.vercel.app/",
       },
     ],
   },
